@@ -34,7 +34,7 @@ function App() {
           Click on the Vite and React logos to learn more
         </p>
 
-        {/* React Router ile yönlendirmeleri ekleyin */}
+        {/* test2 */}
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/success" element={<Success />} />
